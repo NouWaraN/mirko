@@ -23,9 +23,9 @@ Table Of Contents:
 :root {
 	--primary: #1c262f;
 	--primary-light: #212d37;
-	--secondary: #0ee951;
-	--tertiary: #00dabf;
-	--gradient: linear-gradient(to right, #0ee951, #00dabf);
+	--secondary: #7f0ee9;
+	--tertiary: #003ada;
+	--gradient: linear-gradient(to right, #7f0ee9, #003ada);
 }
 
 h1,
@@ -107,8 +107,8 @@ li {
 		linear,
 		left top,
 		left bottom,
-		from(#0ee951),
-		to(#00dabf)
+		from(#7f0ee9),
+		to(#003ada)
 	);
 	background-clip: text;
 	-webkit-background-clip: text;
